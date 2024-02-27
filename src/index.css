@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    background: linear-gradient(135deg, #1a1a1a, #333333); /* Gradiente lineal de gris oscuro a negro */
+}
